@@ -1,0 +1,18 @@
+{
+    "original_nb": "OriginalNotebooks/d0d4fdbe0068dd440f6a8fa42fe91529155e8114.ipynb",
+    "rerun_nb": "RerunNotebooks/d0d4fdbe0068dd440f6a8fa42fe91529155e8114.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 20,
+            "rerun_cell_id": 4,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        }
+    ],
+    "sri_avg": 1.0
+}

@@ -1,0 +1,48 @@
+{
+    "original_nb": "OriginalNotebooks/d50e02d82e30da84ae045463c85416e62d787a88.ipynb",
+    "rerun_nb": "RerunNotebooks/d50e02d82e30da84ae045463c85416e62d787a88.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 2,
+            "rerun_cell_id": 3,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9416666666666667,
+                    "length_match": true,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9416666666666667
+                }
+            ]
+        },
+        {
+            "original_cell_id": 3,
+            "rerun_cell_id": 5,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9536363636363636,
+                    "length_match": true,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9536363636363636
+                },
+                {
+                    "object_type": "image",
+                    "sri": 0.5995292311909549
+                }
+            ]
+        },
+        {
+            "original_cell_id": 4,
+            "rerun_cell_id": 7,
+            "sri_this_cell": []
+        }
+    ],
+    "sri_avg": 0.8316107538313284
+}

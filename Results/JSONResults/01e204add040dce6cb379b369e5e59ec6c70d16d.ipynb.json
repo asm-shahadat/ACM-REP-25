@@ -1,0 +1,146 @@
+{
+    "original_nb": "OriginalNotebooks/01e204add040dce6cb379b369e5e59ec6c70d16d.ipynb",
+    "rerun_nb": "RerunNotebooks/01e204add040dce6cb379b369e5e59ec6c70d16d.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 2,
+            "rerun_cell_id": 3,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9021395348837209,
+                    "length_match": true,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9021395348837209
+                }
+            ]
+        },
+        {
+            "original_cell_id": 9,
+            "rerun_cell_id": 6,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.85,
+                    "length_match": true,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.85
+                }
+            ]
+        },
+        {
+            "original_cell_id": 10,
+            "rerun_cell_id": 8,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 7,
+            "rerun_cell_id": 11,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9364548494983277,
+                    "length_match": true,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9364548494983277
+                }
+            ]
+        },
+        {
+            "original_cell_id": 11,
+            "rerun_cell_id": 13,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 12,
+            "rerun_cell_id": 15,
+            "sri_this_cell": [
+                {
+                    "object_type": "int",
+                    "absolute_match": false,
+                    "difference_within_tolerance": false,
+                    "absolute_difference": 5,
+                    "relative_difference": "0.2477700693756194%",
+                    "sri": 0
+                }
+            ]
+        },
+        {
+            "original_cell_id": 13,
+            "rerun_cell_id": 17,
+            "sri_this_cell": [
+                {
+                    "object_type": "int",
+                    "absolute_match": false,
+                    "difference_within_tolerance": false,
+                    "absolute_difference": 2,
+                    "relative_difference": "25.0%",
+                    "sri": 0
+                }
+            ]
+        },
+        {
+            "original_cell_id": 14,
+            "rerun_cell_id": 19,
+            "sri_this_cell": [
+                {
+                    "object_type": "int",
+                    "absolute_match": false,
+                    "difference_within_tolerance": false,
+                    "absolute_difference": 25,
+                    "relative_difference": "86.20689655172413%",
+                    "sri": 0
+                }
+            ]
+        },
+        {
+            "original_cell_id": 16,
+            "rerun_cell_id": 22,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 20,
+            "rerun_cell_id": 24,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9779073756432247,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9779073756432247
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.6666501760025273
+}

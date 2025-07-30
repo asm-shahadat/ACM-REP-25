@@ -1,0 +1,44 @@
+{
+    "original_nb": "OriginalNotebooks/6845c9e19f189d7d0e8f2e8948b6f1ba296a20b6.ipynb",
+    "rerun_nb": "RerunNotebooks/6845c9e19f189d7d0e8f2e8948b6f1ba296a20b6.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 5,
+            "rerun_cell_id": 4,
+            "sri_this_cell": [
+                {
+                    "object_type": "int",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 22,
+            "rerun_cell_id": 8,
+            "sri_this_cell": [
+                {
+                    "object_type": "int",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 28,
+            "rerun_cell_id": 12,
+            "sri_this_cell": [
+                {
+                    "object_type": "dict",
+                    "absolute_match": false,
+                    "length_match": true,
+                    "sri": 0.0,
+                    "keys_match": false,
+                    "percentage_of_original_keys_match": "60.0%",
+                    "percentage_of_original_items_match": "0.0%"
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.6666666666666666
+}

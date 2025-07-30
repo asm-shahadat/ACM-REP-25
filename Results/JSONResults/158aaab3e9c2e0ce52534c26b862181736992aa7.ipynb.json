@@ -1,0 +1,116 @@
+{
+    "original_nb": "OriginalNotebooks/158aaab3e9c2e0ce52534c26b862181736992aa7.ipynb",
+    "rerun_nb": "RerunNotebooks/158aaab3e9c2e0ce52534c26b862181736992aa7.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 2,
+            "rerun_cell_id": 3,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 3,
+            "rerun_cell_id": 5,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 4,
+            "rerun_cell_id": 7,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9863636363636363,
+                    "length_match": true,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9863636363636363
+                }
+            ]
+        },
+        {
+            "original_cell_id": 6,
+            "rerun_cell_id": 10,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 7,
+            "rerun_cell_id": 12,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 8,
+            "rerun_cell_id": 14,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 9,
+            "rerun_cell_id": 16,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 10,
+            "rerun_cell_id": 18,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9863636363636363,
+                    "length_match": true,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9863636363636363
+                }
+            ]
+        },
+        {
+            "original_cell_id": 11,
+            "rerun_cell_id": 20,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.996969696969697
+}

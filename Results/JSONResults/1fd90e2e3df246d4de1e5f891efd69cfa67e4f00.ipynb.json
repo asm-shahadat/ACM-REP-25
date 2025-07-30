@@ -1,0 +1,116 @@
+{
+    "original_nb": "OriginalNotebooks/1fd90e2e3df246d4de1e5f891efd69cfa67e4f00.ipynb",
+    "rerun_nb": "RerunNotebooks/1fd90e2e3df246d4de1e5f891efd69cfa67e4f00.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 2,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 4,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 6,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 2,
+            "rerun_cell_id": 9,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 3,
+            "rerun_cell_id": 11,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 11,
+            "rerun_cell_id": 13,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 17,
+            "rerun_cell_id": 15,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 19,
+            "rerun_cell_id": 17,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 27,
+            "rerun_cell_id": 20,
+            "sri_this_cell": []
+        },
+        {
+            "original_cell_id": 33,
+            "rerun_cell_id": 22,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 37,
+            "rerun_cell_id": 25,
+            "sri_this_cell": []
+        }
+    ],
+    "sri_avg": 1.0
+}

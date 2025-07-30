@@ -1,0 +1,52 @@
+{
+    "original_nb": "OriginalNotebooks/bd2e5bfd512e757eeb8c3ad0f375d2949efef8e5.ipynb",
+    "rerun_nb": "RerunNotebooks/bd2e5bfd512e757eeb8c3ad0f375d2949efef8e5.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 1,
+            "rerun_cell_id": 2,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 0,
+                    "absolute_match": false,
+                    "data_type_match": true,
+                    "dimension_matched": true,
+                    "size_matched": true,
+                    "shape_matched": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 2,
+            "rerun_cell_id": 4,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 0,
+                    "absolute_match": false,
+                    "data_type_match": true,
+                    "dimension_matched": true,
+                    "size_matched": true,
+                    "shape_matched": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 3,
+            "rerun_cell_id": 6,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 0,
+                    "absolute_match": false,
+                    "data_type_match": true,
+                    "dimension_matched": true,
+                    "size_matched": true,
+                    "shape_matched": true
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.0
+}

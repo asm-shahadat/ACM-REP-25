@@ -1,0 +1,45 @@
+{
+    "original_nb": "OriginalNotebooks/eeba2fc1fafeb86cdcde543fa9056344653f0e44.ipynb",
+    "rerun_nb": "RerunNotebooks/eeba2fc1fafeb86cdcde543fa9056344653f0e44.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 148,
+            "rerun_cell_id": 9,
+            "sri_this_cell": [
+                {
+                    "object_type": "tuple",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 182,
+            "rerun_cell_id": 13,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9196310701547697,
+                    "length_match": true,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9196310701547697
+                }
+            ]
+        },
+        {
+            "original_cell_id": 184,
+            "rerun_cell_id": 15,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.9732103567182566
+}

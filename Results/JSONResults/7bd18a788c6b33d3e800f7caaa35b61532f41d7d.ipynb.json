@@ -1,0 +1,98 @@
+{
+    "original_nb": "OriginalNotebooks/7bd18a788c6b33d3e800f7caaa35b61532f41d7d.ipynb",
+    "rerun_nb": "RerunNotebooks/7bd18a788c6b33d3e800f7caaa35b61532f41d7d.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 1,
+            "rerun_cell_id": 2,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.601244323094655,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.601244323094655
+                },
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.6860820744558916,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.6860820744558916
+                }
+            ]
+        },
+        {
+            "original_cell_id": 2,
+            "rerun_cell_id": 5,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.8583476764199656,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.8583476764199656
+                }
+            ]
+        },
+        {
+            "original_cell_id": 5,
+            "rerun_cell_id": 8,
+            "sri_this_cell": [
+                {
+                    "object_type": "list",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 5,
+            "rerun_cell_id": 11,
+            "sri_this_cell": [
+                {
+                    "object_type": "list",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 10,
+            "rerun_cell_id": 14,
+            "sri_this_cell": []
+        },
+        {
+            "original_cell_id": 13,
+            "rerun_cell_id": 17,
+            "sri_this_cell": [
+                {
+                    "object_type": "list",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 10,
+            "rerun_cell_id": 20,
+            "sri_this_cell": [
+                {
+                    "object_type": "list",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.8779534391386445
+}

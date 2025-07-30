@@ -1,0 +1,323 @@
+{
+    "original_nb": "OriginalNotebooks/10cfaf3859a6e18940b7907b5c329f81c499c6f8.ipynb",
+    "rerun_nb": "RerunNotebooks/10cfaf3859a6e18940b7907b5c329f81c499c6f8.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 30,
+            "rerun_cell_id": 4,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "dict_keys",
+                    "object_type": "list",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 31,
+            "rerun_cell_id": 6,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "dict_keys",
+                    "object_type": "list",
+                    "absolute_match": false,
+                    "sri": 0,
+                    "length_match": false,
+                    "distinct_element_match": false,
+                    "percentage_of_distinct_element_match": "97.5%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 32,
+            "rerun_cell_id": 8,
+            "sri_this_cell": []
+        },
+        {
+            "original_cell_id": 33,
+            "rerun_cell_id": 10,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": false,
+                    "sri": 0.375,
+                    "shape_matched": true,
+                    "columns_matched": true,
+                    "percentage_of_elements_matched": "37.5%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 7,
+            "rerun_cell_id": 12,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "list",
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9159939789439787,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9159939789439787
+                }
+            ]
+        },
+        {
+            "original_cell_id": 8,
+            "rerun_cell_id": 14,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "list",
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 9,
+            "rerun_cell_id": 16,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": false,
+                    "sri": 0.375,
+                    "shape_matched": true,
+                    "columns_matched": true,
+                    "percentage_of_elements_matched": "37.5%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 10,
+            "rerun_cell_id": 18,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": false,
+                    "sri": 0.17355371900826447,
+                    "shape_matched": true,
+                    "columns_matched": true,
+                    "percentage_of_elements_matched": "17.355371900826448%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 11,
+            "rerun_cell_id": 20,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": false,
+                    "sri": 0.17355371900826447,
+                    "shape_matched": true,
+                    "columns_matched": true,
+                    "percentage_of_elements_matched": "17.355371900826448%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 12,
+            "rerun_cell_id": 22,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": false,
+                    "sri": 0.17355371900826447,
+                    "shape_matched": true,
+                    "columns_matched": true,
+                    "percentage_of_elements_matched": "17.355371900826448%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 13,
+            "rerun_cell_id": 24,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "Series",
+                    "object_type": "list",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 14,
+            "rerun_cell_id": 26,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "Series",
+                    "object_type": "list",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 16,
+            "rerun_cell_id": 29,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "Series",
+                    "object_type": "list",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 17,
+            "rerun_cell_id": 31,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": false,
+                    "sri": 0.17355371900826447,
+                    "shape_matched": true,
+                    "columns_matched": true,
+                    "percentage_of_elements_matched": "17.355371900826448%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 18,
+            "rerun_cell_id": 33,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "Series",
+                    "object_type": "list",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 19,
+            "rerun_cell_id": 35,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "Series",
+                    "object_type": "list",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 26,
+            "rerun_cell_id": 37,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": false,
+                    "sri": 0.15702479338842976,
+                    "shape_matched": true,
+                    "columns_matched": true,
+                    "percentage_of_elements_matched": "15.702479338842975%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 21,
+            "rerun_cell_id": 39,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "Series",
+                    "object_type": "list",
+                    "absolute_match": false,
+                    "sri": 0.2,
+                    "length_match": false,
+                    "distinct_element_match": false,
+                    "percentage_of_distinct_element_match": "20.0%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 22,
+            "rerun_cell_id": 41,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "Series",
+                    "object_type": "list",
+                    "absolute_match": false,
+                    "sri": 0.0,
+                    "length_match": false,
+                    "distinct_element_match": false,
+                    "percentage_of_distinct_element_match": "0.0%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 23,
+            "rerun_cell_id": 43,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "Series",
+                    "object_type": "list",
+                    "absolute_match": false,
+                    "sri": 0.0,
+                    "length_match": false,
+                    "distinct_element_match": false,
+                    "percentage_of_distinct_element_match": "0.0%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 25,
+            "rerun_cell_id": 45,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": false,
+                    "sri": 0.0,
+                    "shape_matched": false,
+                    "columns_matched": false,
+                    "percentage_of_column_names_matched": "30.76923076923077%",
+                    "percentage_of_index_matched": "100.0%",
+                    "percentage_of_elements_matched": "0.0%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 34,
+            "rerun_cell_id": 47,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": false,
+                    "sri": 0.10507246376811594,
+                    "shape_matched": false,
+                    "columns_matched": false,
+                    "percentage_of_column_names_matched": "26.08695652173913%",
+                    "percentage_of_index_matched": "100.0%",
+                    "percentage_of_elements_matched": "10.507246376811594%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 35,
+            "rerun_cell_id": 49,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.8836687845870055,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.8836687845870055
+                },
+                {
+                    "object_type": "image",
+                    "sri": 0.5138253532464584
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.48781740217248026
+}

@@ -1,0 +1,281 @@
+{
+    "original_nb": "OriginalNotebooks/db0b3c99febe9da4345edd5461e2272cb48f348c.ipynb",
+    "rerun_nb": "RerunNotebooks/db0b3c99febe9da4345edd5461e2272cb48f348c.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 2,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.6185468599033815,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.6185468599033815
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 5,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 7,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.485883870967742,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.485883870967742
+                },
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.5052294911734164,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.5052294911734164
+                },
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.5334877328718314,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.5334877328718314
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 9,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.5113035753941817,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.5113035753941817
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 12,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                },
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.5159974404095344,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.5159974404095344
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 15,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 17,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.5113035753941817,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.5113035753941817
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 19,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                },
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.5224146865052928,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.5224146865052928
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 21,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.5113035753941817,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.5113035753941817
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 23,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.5282754026051598,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.5282754026051598
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 27,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                },
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.5201916670937324,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.5201916670937324
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 29,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 32,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 34,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 36,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9185297824538331,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9185297824538331
+                },
+                {
+                    "object_type": "image",
+                    "sri": 0.7689608429806319
+                }
+            ]
+        },
+        {
+            "original_cell_id": null,
+            "rerun_cell_id": 38,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9201218403346063,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9201218403346063
+                },
+                {
+                    "object_type": "image",
+                    "sri": 0.483511716217264
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.7328287852043032
+}

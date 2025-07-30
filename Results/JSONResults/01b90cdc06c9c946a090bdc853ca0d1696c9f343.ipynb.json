@@ -1,0 +1,236 @@
+{
+    "original_nb": "OriginalNotebooks/01b90cdc06c9c946a090bdc853ca0d1696c9f343.ipynb",
+    "rerun_nb": "RerunNotebooks/01b90cdc06c9c946a090bdc853ca0d1696c9f343.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 31,
+            "rerun_cell_id": 4,
+            "sri_this_cell": [
+                {
+                    "object_type": "image",
+                    "sri": 0.7987061088475796
+                }
+            ]
+        },
+        {
+            "original_cell_id": 32,
+            "rerun_cell_id": 6,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 33,
+            "rerun_cell_id": 8,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9467656415694591,
+                    "length_match": true,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9467656415694591
+                },
+                {
+                    "object_type": "image",
+                    "sri": 0.768569207585777
+                }
+            ]
+        },
+        {
+            "original_cell_id": 36,
+            "rerun_cell_id": 12,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9742152023280223,
+                    "length_match": true,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9742152023280223
+                },
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.8364567121996773,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.8364567121996773
+                }
+            ]
+        },
+        {
+            "original_cell_id": 37,
+            "rerun_cell_id": 14,
+            "sri_this_cell": [
+                {
+                    "object_type": "image",
+                    "sri": 0.7736112465471998
+                }
+            ]
+        },
+        {
+            "original_cell_id": 38,
+            "rerun_cell_id": 16,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 39,
+            "rerun_cell_id": 18,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "Series",
+                    "object_type": "list",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 40,
+            "rerun_cell_id": 20,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 42,
+            "rerun_cell_id": 23,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 45,
+            "rerun_cell_id": 27,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9743175564733653,
+                    "length_match": true,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9743175564733653
+                },
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.8364567121996773,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.8364567121996773
+                }
+            ]
+        },
+        {
+            "original_cell_id": 46,
+            "rerun_cell_id": 29,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 47,
+            "rerun_cell_id": 31,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 48,
+            "rerun_cell_id": 33,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 49,
+            "rerun_cell_id": 35,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.8350431850515867,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.8350431850515867
+                }
+            ]
+        },
+        {
+            "original_cell_id": 50,
+            "rerun_cell_id": 37,
+            "sri_this_cell": []
+        },
+        {
+            "original_cell_id": 51,
+            "rerun_cell_id": 39,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 52,
+            "rerun_cell_id": 41,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.8350431850515867,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.8350431850515867
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.9252202504133645
+}

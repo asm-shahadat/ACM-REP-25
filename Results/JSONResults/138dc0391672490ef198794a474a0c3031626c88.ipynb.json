@@ -1,0 +1,68 @@
+{
+    "original_nb": "OriginalNotebooks/138dc0391672490ef198794a474a0c3031626c88.ipynb",
+    "rerun_nb": "RerunNotebooks/138dc0391672490ef198794a474a0c3031626c88.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 5,
+            "rerun_cell_id": 2,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.7799761121987859,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.7799761121987859
+                }
+            ]
+        },
+        {
+            "original_cell_id": 3,
+            "rerun_cell_id": 6,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 6,
+            "rerun_cell_id": 8,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 7,
+            "rerun_cell_id": 10,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 8,
+            "rerun_cell_id": 12,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "Series",
+                    "object_type": "list",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.9559952224397572
+}

@@ -1,0 +1,362 @@
+{
+    "original_nb": "OriginalNotebooks/459a8dfd34b06e4550d3786745033fe601277cd1.ipynb",
+    "rerun_nb": "RerunNotebooks/459a8dfd34b06e4550d3786745033fe601277cd1.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 4,
+            "rerun_cell_id": 5,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 5,
+            "rerun_cell_id": 7,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 6,
+            "rerun_cell_id": 9,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "Series",
+                    "object_type": "list",
+                    "absolute_match": false,
+                    "sri": 0.8461538461538461,
+                    "length_match": false,
+                    "distinct_element_match": false,
+                    "percentage_of_distinct_element_match": "84.61538461538461%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 8,
+            "rerun_cell_id": 12,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 9,
+            "rerun_cell_id": 14,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.8694947709530121,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.8694947709530121
+                }
+            ]
+        },
+        {
+            "original_cell_id": 11,
+            "rerun_cell_id": 17,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.8166220001514117,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.8166220001514117
+                }
+            ]
+        },
+        {
+            "original_cell_id": 13,
+            "rerun_cell_id": 20,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.8245184334736573,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.8245184334736573
+                }
+            ]
+        },
+        {
+            "original_cell_id": 15,
+            "rerun_cell_id": 23,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.8903347171769589,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.8903347171769589
+                },
+                {
+                    "object_type": "image",
+                    "sri": 0.7629148740949983
+                }
+            ]
+        },
+        {
+            "original_cell_id": 17,
+            "rerun_cell_id": 26,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.8903347171769589,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.8903347171769589
+                },
+                {
+                    "object_type": "image",
+                    "sri": 0.777013110275283
+                }
+            ]
+        },
+        {
+            "original_cell_id": 19,
+            "rerun_cell_id": 29,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.7734718775126371,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.7734718775126371
+                },
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9088646062330273,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9088646062330273
+                },
+                {
+                    "object_type": "image",
+                    "sri": 0.7534196066676025
+                }
+            ]
+        },
+        {
+            "original_cell_id": 21,
+            "rerun_cell_id": 32,
+            "sri_this_cell": []
+        },
+        {
+            "original_cell_id": 23,
+            "rerun_cell_id": 35,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.8357142857142857,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.8357142857142857
+                },
+                {
+                    "object_type": "image",
+                    "sri": 0.5912925322256233
+                }
+            ]
+        },
+        {
+            "original_cell_id": 24,
+            "rerun_cell_id": 37,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "Series",
+                    "object_type": "list",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 25,
+            "rerun_cell_id": 39,
+            "sri_this_cell": []
+        },
+        {
+            "original_cell_id": 28,
+            "rerun_cell_id": 43,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "Series",
+                    "object_type": "list",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 30,
+            "rerun_cell_id": 46,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "Series",
+                    "object_type": "list",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 31,
+            "rerun_cell_id": 48,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": false,
+                    "sri": 0.3333333333333333,
+                    "shape_matched": true,
+                    "columns_matched": true,
+                    "percentage_of_elements_matched": "33.33333333333333%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 33,
+            "rerun_cell_id": 51,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 34,
+            "rerun_cell_id": 53,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": false,
+                    "sri": 0.7,
+                    "shape_matched": true,
+                    "columns_matched": true,
+                    "percentage_of_elements_matched": "70.0%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 46,
+            "rerun_cell_id": 58,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "ml_model",
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 40,
+            "rerun_cell_id": 61,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 0,
+                    "absolute_match": false,
+                    "data_type_match": true,
+                    "dimension_matched": true,
+                    "size_matched": true,
+                    "shape_matched": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 42,
+            "rerun_cell_id": 64,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9616230024356918,
+                    "length_match": true,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9616230024356918
+                }
+            ]
+        },
+        {
+            "original_cell_id": 43,
+            "rerun_cell_id": 66,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9693059628543499,
+                    "length_match": true,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9693059628543499
+                }
+            ]
+        },
+        {
+            "original_cell_id": 44,
+            "rerun_cell_id": 68,
+            "sri_this_cell": [
+                {
+                    "object_type": "float",
+                    "absolute_match": false,
+                    "difference_within_tolerance": false,
+                    "absolute_difference": 0.013452914798206317,
+                    "relative_difference": "1.785714285714291%",
+                    "sri": 0
+                }
+            ]
+        },
+        {
+            "original_cell_id": 45,
+            "rerun_cell_id": 70,
+            "sri_this_cell": [
+                {
+                    "object_type": "float",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.7964596917197285
+}

@@ -1,0 +1,112 @@
+{
+    "original_nb": "OriginalNotebooks/4cb940a2c28538c3dc142c30e995184d9308b297.ipynb",
+    "rerun_nb": "RerunNotebooks/4cb940a2c28538c3dc142c30e995184d9308b297.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 23,
+            "rerun_cell_id": 5,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 24,
+            "rerun_cell_id": 7,
+            "sri_this_cell": [
+                {
+                    "object_type": "image",
+                    "sri": 0.8807512032218885
+                }
+            ]
+        },
+        {
+            "original_cell_id": 39,
+            "rerun_cell_id": 9,
+            "sri_this_cell": []
+        },
+        {
+            "original_cell_id": 41,
+            "rerun_cell_id": 12,
+            "sri_this_cell": [
+                {
+                    "object_type": "image",
+                    "sri": 0.7596841692244283
+                }
+            ]
+        },
+        {
+            "original_cell_id": 44,
+            "rerun_cell_id": 14,
+            "sri_this_cell": []
+        },
+        {
+            "original_cell_id": 45,
+            "rerun_cell_id": 16,
+            "sri_this_cell": []
+        },
+        {
+            "original_cell_id": 47,
+            "rerun_cell_id": 18,
+            "sri_this_cell": [
+                {
+                    "object_type": "image",
+                    "sri": 0.8711791164648396
+                }
+            ]
+        },
+        {
+            "original_cell_id": 51,
+            "rerun_cell_id": 20,
+            "sri_this_cell": []
+        },
+        {
+            "original_cell_id": 54,
+            "rerun_cell_id": 23,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                },
+                {
+                    "object_type": "image",
+                    "sri": 0.20795499173467002
+                }
+            ]
+        },
+        {
+            "original_cell_id": 59,
+            "rerun_cell_id": 25,
+            "sri_this_cell": [
+                {
+                    "object_type": "image",
+                    "sri": 0.7144570681791984
+                }
+            ]
+        },
+        {
+            "original_cell_id": 93,
+            "rerun_cell_id": 28,
+            "sri_this_cell": []
+        },
+        {
+            "original_cell_id": 96,
+            "rerun_cell_id": 31,
+            "sri_this_cell": [
+                {
+                    "object_type": "image",
+                    "sri": 0.6695379611457632
+                },
+                {
+                    "object_type": "image",
+                    "sri": 0.7933656992669026
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.766325578804188
+}

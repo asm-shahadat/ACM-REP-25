@@ -1,0 +1,1044 @@
+{
+    "original_nb": "OriginalNotebooks/defc752334f2fef4201f84f23eac29456a5749fa.ipynb",
+    "rerun_nb": "RerunNotebooks/defc752334f2fef4201f84f23eac29456a5749fa.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 2,
+            "rerun_cell_id": 3,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 4,
+            "rerun_cell_id": 5,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 12,
+            "rerun_cell_id": 7,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 10,
+            "rerun_cell_id": 9,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 14,
+            "rerun_cell_id": 11,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 15,
+            "rerun_cell_id": 13,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 16,
+            "rerun_cell_id": 15,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 18,
+            "rerun_cell_id": 17,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 19,
+            "rerun_cell_id": 19,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 21,
+            "rerun_cell_id": 21,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 22,
+            "rerun_cell_id": 23,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 24,
+            "rerun_cell_id": 25,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 28,
+            "rerun_cell_id": 27,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 0,
+                    "absolute_match": false,
+                    "data_type_match": true,
+                    "dimension_matched": true,
+                    "size_matched": true,
+                    "shape_matched": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 29,
+            "rerun_cell_id": 29,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 32,
+            "rerun_cell_id": 31,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 40,
+            "rerun_cell_id": 34,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 46,
+            "rerun_cell_id": 36,
+            "sri_this_cell": [
+                {
+                    "object_type": "int",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 43,
+            "rerun_cell_id": 38,
+            "sri_this_cell": [
+                {
+                    "object_type": "tuple",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 44,
+            "rerun_cell_id": 40,
+            "sri_this_cell": [
+                {
+                    "object_type": "tuple",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 45,
+            "rerun_cell_id": 42,
+            "sri_this_cell": [
+                {
+                    "object_type": "tuple",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 47,
+            "rerun_cell_id": 44,
+            "sri_this_cell": [
+                {
+                    "object_type": "int",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 48,
+            "rerun_cell_id": 46,
+            "sri_this_cell": [
+                {
+                    "object_type": "int",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 49,
+            "rerun_cell_id": 48,
+            "sri_this_cell": [
+                {
+                    "object_type": "int",
+                    "absolute_match": false,
+                    "difference_within_tolerance": false,
+                    "absolute_difference": 4,
+                    "relative_difference": "100.0%",
+                    "sri": 0
+                }
+            ]
+        },
+        {
+            "original_cell_id": 50,
+            "rerun_cell_id": 50,
+            "sri_this_cell": [
+                {
+                    "object_type": "int",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 5,
+            "rerun_cell_id": 52,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9155760368663595,
+                    "length_match": true,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9155760368663595
+                }
+            ]
+        },
+        {
+            "original_cell_id": 6,
+            "rerun_cell_id": 54,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9428571428571428,
+                    "length_match": true,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9428571428571428
+                }
+            ]
+        },
+        {
+            "original_cell_id": 7,
+            "rerun_cell_id": 56,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 10,
+            "rerun_cell_id": 59,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 11,
+            "rerun_cell_id": 61,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 14,
+            "rerun_cell_id": 64,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 16,
+            "rerun_cell_id": 66,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 17,
+            "rerun_cell_id": 68,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 18,
+            "rerun_cell_id": 70,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 25,
+            "rerun_cell_id": 72,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 23,
+            "rerun_cell_id": 74,
+            "sri_this_cell": [
+                {
+                    "object_type": "tuple",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 24,
+            "rerun_cell_id": 76,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 0,
+                    "absolute_match": false,
+                    "data_type_match": true,
+                    "dimension_matched": true,
+                    "size_matched": true,
+                    "shape_matched": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 28,
+            "rerun_cell_id": 78,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 0,
+                    "absolute_match": false,
+                    "data_type_match": true,
+                    "dimension_matched": true,
+                    "size_matched": true,
+                    "shape_matched": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 30,
+            "rerun_cell_id": 80,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 0,
+                    "absolute_match": false,
+                    "data_type_match": true,
+                    "dimension_matched": true,
+                    "size_matched": true,
+                    "shape_matched": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 29,
+            "rerun_cell_id": 82,
+            "sri_this_cell": [
+                {
+                    "object_type": "tuple",
+                    "absolute_match": false,
+                    "sri": 0.0,
+                    "length_match": true,
+                    "after_sorting_match": false,
+                    "percentage_of_index_wise_match": "0.0%",
+                    "max_element_match": false,
+                    "min_element_match": false,
+                    "distinct_element_match": false,
+                    "percentage_of_distinct_element_match": "0.0%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 32,
+            "rerun_cell_id": 84,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "list",
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.8676565465738127,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.8676565465738127
+                }
+            ]
+        },
+        {
+            "original_cell_id": 35,
+            "rerun_cell_id": 86,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 36,
+            "rerun_cell_id": 88,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 38,
+            "rerun_cell_id": 90,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.7864778960017056,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.7864778960017056
+                },
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 39,
+            "rerun_cell_id": 92,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 40,
+            "rerun_cell_id": 94,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 0,
+                    "absolute_match": false,
+                    "data_type_match": true,
+                    "dimension_matched": true,
+                    "size_matched": true,
+                    "shape_matched": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 41,
+            "rerun_cell_id": 96,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 42,
+            "rerun_cell_id": 98,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 50,
+            "rerun_cell_id": 101,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 51,
+            "rerun_cell_id": 103,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 52,
+            "rerun_cell_id": 105,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 53,
+            "rerun_cell_id": 107,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 58,
+            "rerun_cell_id": 109,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 59,
+            "rerun_cell_id": 111,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 63,
+            "rerun_cell_id": 113,
+            "sri_this_cell": [
+                {
+                    "object_type": "tuple",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 65,
+            "rerun_cell_id": 115,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 66,
+            "rerun_cell_id": 117,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 67,
+            "rerun_cell_id": 119,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 71,
+            "rerun_cell_id": 121,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 73,
+            "rerun_cell_id": 123,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 74,
+            "rerun_cell_id": 125,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 75,
+            "rerun_cell_id": 127,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 76,
+            "rerun_cell_id": 129,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 95,
+            "rerun_cell_id": 131,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 107,
+            "rerun_cell_id": 133,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 136,
+            "rerun_cell_id": 135,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 139,
+            "rerun_cell_id": 137,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 141,
+            "rerun_cell_id": 139,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 142,
+            "rerun_cell_id": 141,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 144,
+            "rerun_cell_id": 143,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 147,
+            "rerun_cell_id": 145,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 148,
+            "rerun_cell_id": 147,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 152,
+            "rerun_cell_id": 149,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 153,
+            "rerun_cell_id": 151,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 154,
+            "rerun_cell_id": 153,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 155,
+            "rerun_cell_id": 155,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 159,
+            "rerun_cell_id": 157,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 160,
+            "rerun_cell_id": 159,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 161,
+            "rerun_cell_id": 161,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 163,
+            "rerun_cell_id": 163,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 165,
+            "rerun_cell_id": 166,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 166,
+            "rerun_cell_id": 168,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 168,
+            "rerun_cell_id": 171,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 170,
+            "rerun_cell_id": 174,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 171,
+            "rerun_cell_id": 176,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 173,
+            "rerun_cell_id": 178,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 176,
+            "rerun_cell_id": 180,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 181,
+            "rerun_cell_id": 182,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "list",
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 184,
+            "rerun_cell_id": 184,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        },
+        {
+            "original_cell_id": 185,
+            "rerun_cell_id": 186,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "list",
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.9168063069144337
+}

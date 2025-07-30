@@ -1,0 +1,34 @@
+{
+    "original_nb": "OriginalNotebooks/452f093af474f37a7313de9856f80361e947158b.ipynb",
+    "rerun_nb": "RerunNotebooks/452f093af474f37a7313de9856f80361e947158b.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 2,
+            "rerun_cell_id": 3,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 4,
+            "rerun_cell_id": 6,
+            "sri_this_cell": []
+        },
+        {
+            "original_cell_id": 5,
+            "rerun_cell_id": 8,
+            "sri_this_cell": [
+                {
+                    "object_type": "Numpy array",
+                    "sri": 1,
+                    "absolute_match": true
+                }
+            ]
+        }
+    ],
+    "sri_avg": 1.0
+}

@@ -1,0 +1,72 @@
+{
+    "original_nb": "OriginalNotebooks/be5b1d7c6f807a56475cdf5a66ef34f6bcfee5a9.ipynb",
+    "rerun_nb": "RerunNotebooks/be5b1d7c6f807a56475cdf5a66ef34f6bcfee5a9.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 12,
+            "rerun_cell_id": 4,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                },
+                {
+                    "object_type": "image",
+                    "sri": 0.7974669312435833
+                }
+            ]
+        },
+        {
+            "original_cell_id": 27,
+            "rerun_cell_id": 7,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                },
+                {
+                    "object_type": "image",
+                    "sri": 0.8738001623092639
+                }
+            ]
+        },
+        {
+            "original_cell_id": 28,
+            "rerun_cell_id": 9,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.9393149540517961,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.9393149540517961
+                },
+                {
+                    "object_type": "image",
+                    "sri": 0.8132174866055436
+                }
+            ]
+        },
+        {
+            "original_cell_id": 29,
+            "rerun_cell_id": 11,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                },
+                {
+                    "object_type": "image",
+                    "sri": 0.8575232858273385
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.9101653525046906
+}

@@ -1,0 +1,33 @@
+{
+    "original_nb": "OriginalNotebooks/1715382ad7ca5ef4e594140dd801352b2ed1a99f.ipynb",
+    "rerun_nb": "RerunNotebooks/1715382ad7ca5ef4e594140dd801352b2ed1a99f.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 1,
+            "rerun_cell_id": 2,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": false,
+                    "sri": 0.6455839002267574,
+                    "length_match": false,
+                    "stripped_match": false,
+                    "case_insensitive_match": false,
+                    "is_substring": false,
+                    "jaro_winkler_similarity": 0.6455839002267574
+                }
+            ]
+        },
+        {
+            "original_cell_id": 2,
+            "rerun_cell_id": 4,
+            "sri_this_cell": [
+                {
+                    "object_type": "image",
+                    "sri": 0.9315733635483444
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.788578631887551
+}

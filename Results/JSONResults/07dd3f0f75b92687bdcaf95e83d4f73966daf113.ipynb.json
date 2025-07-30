@@ -1,0 +1,50 @@
+{
+    "original_nb": "OriginalNotebooks/07dd3f0f75b92687bdcaf95e83d4f73966daf113.ipynb",
+    "rerun_nb": "RerunNotebooks/07dd3f0f75b92687bdcaf95e83d4f73966daf113.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 3,
+            "rerun_cell_id": 4,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 9,
+            "rerun_cell_id": 6,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": false,
+                    "sri": 0.6666666666666666,
+                    "shape_matched": false,
+                    "columns_matched": false,
+                    "percentage_of_column_names_matched": "66.66666666666666%",
+                    "percentage_of_index_matched": "100.0%",
+                    "percentage_of_elements_matched": "66.66666666666666%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 10,
+            "rerun_cell_id": 8,
+            "sri_this_cell": []
+        },
+        {
+            "original_cell_id": 13,
+            "rerun_cell_id": 12,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.8888888888888888
+}

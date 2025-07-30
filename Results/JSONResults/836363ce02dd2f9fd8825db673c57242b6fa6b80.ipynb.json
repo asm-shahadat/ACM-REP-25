@@ -1,0 +1,29 @@
+{
+    "original_nb": "OriginalNotebooks/836363ce02dd2f9fd8825db673c57242b6fa6b80.ipynb",
+    "rerun_nb": "RerunNotebooks/836363ce02dd2f9fd8825db673c57242b6fa6b80.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 5,
+            "rerun_cell_id": 3,
+            "sri_this_cell": [
+                {
+                    "object_type": "list",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 63,
+            "rerun_cell_id": 6,
+            "sri_this_cell": [
+                {
+                    "object_type": "str",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        }
+    ],
+    "sri_avg": 1.0
+}

@@ -1,0 +1,80 @@
+{
+    "original_nb": "OriginalNotebooks/cfa703d731d3aea27a1c5eab64f4675ec15a82be.ipynb",
+    "rerun_nb": "RerunNotebooks/cfa703d731d3aea27a1c5eab64f4675ec15a82be.ipynb",
+    "sri_cells": [
+        {
+            "original_cell_id": 3,
+            "rerun_cell_id": 4,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": false,
+                    "sri": 0.35,
+                    "shape_matched": true,
+                    "columns_matched": true,
+                    "percentage_of_elements_matched": "35.0%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 4,
+            "rerun_cell_id": 6,
+            "sri_this_cell": [
+                {
+                    "object_type": "Pandas DataFrame",
+                    "absolute_match": false,
+                    "sri": 0.35,
+                    "shape_matched": true,
+                    "columns_matched": true,
+                    "percentage_of_elements_matched": "35.0%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 5,
+            "rerun_cell_id": 8,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "Series",
+                    "object_type": "list",
+                    "absolute_match": false,
+                    "sri": 0.16666666666666666,
+                    "length_match": true,
+                    "after_sorting_match": false,
+                    "percentage_of_index_wise_match": "16.666666666666664%",
+                    "distinct_element_match": false,
+                    "percentage_of_distinct_element_match": "16.666666666666664%"
+                }
+            ]
+        },
+        {
+            "original_cell_id": 6,
+            "rerun_cell_id": 10,
+            "sri_this_cell": [
+                {
+                    "object_type": "int",
+                    "absolute_match": true,
+                    "sri": 1
+                }
+            ]
+        },
+        {
+            "original_cell_id": 7,
+            "rerun_cell_id": 12,
+            "sri_this_cell": [
+                {
+                    "actual_object_type": "Series",
+                    "object_type": "list",
+                    "absolute_match": false,
+                    "sri": 0.16666666666666666,
+                    "length_match": true,
+                    "after_sorting_match": false,
+                    "percentage_of_index_wise_match": "16.666666666666664%",
+                    "distinct_element_match": false,
+                    "percentage_of_distinct_element_match": "16.666666666666664%"
+                }
+            ]
+        }
+    ],
+    "sri_avg": 0.4066666666666666
+}
